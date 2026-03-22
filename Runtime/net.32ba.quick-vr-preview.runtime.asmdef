@@ -1,0 +1,17 @@
+{
+  "name": "net.32ba.quick-vr-preview.runtime",
+  "rootNamespace": "QuickVRPreview",
+  "references": [
+    "Unity.XR.Management",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "net.32ba.quick-vr-preview.editor",
+  "rootNamespace": "QuickVRPreview",
+  "references": [
+    "net.32ba.quick-vr-preview.runtime"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
